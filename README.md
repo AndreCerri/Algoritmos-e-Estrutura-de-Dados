@@ -1,2 +1,3 @@
 # Algoritmos-e-Estrutura-de-Dados
-Estudo
+
+Programas em C criados durante meu estudo de Algoritmos e Estrutura de Dados.
