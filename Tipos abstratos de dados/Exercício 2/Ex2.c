@@ -31,8 +31,7 @@ int main(){
     int i, nItens;
 
     struct Request pedido;
-    
-    
+       
     printf("Nome do cliente: ");
     fgets(pedido.clientName, 50, stdin);
     __fpurge(stdin);
